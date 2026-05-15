@@ -173,7 +173,7 @@ Mentored fellow students at Jetking Institute on:
 
 ---
 
-## 📚 Skills Demonstrated easy
+## 📚 Skills Demonstrated
 
 `PC Assembly` `Hardware Troubleshooting` `Component Identification`
 `BIOS Configuration` `OS Installation` `Windows 10/11` `Ubuntu Linux`
